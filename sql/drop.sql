@@ -1,0 +1,19 @@
+-- DROP ALL TABLES --
+
+DROP TABLE Awards;
+DROP TABLE Comments;
+DROP TABLE HelpTickets;
+DROP TABLE Videos;
+DROP TABLE Images;
+DROP TABLE TextPosts;
+DROP TABLE Posts;
+DROP TABLE MemberOf;
+DROP TABLE Attends;
+DROP TABLE Follows;
+DROP TABLE Events;
+DROP TABLE Users;
+DROP TABLE Admins;
+DROP TABLE StorageSizes;
+DROP TABLE Communities;
+DROP TABLE StarSigns;
+DROP TABLE Genres;
