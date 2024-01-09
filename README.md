@@ -1,8 +1,6 @@
-# project_m8z5c_p1e5l_t0i2h
+### Reddit DBMS
 
-Project Repository for Group 57
-Project for CPSC304
+This is a copy of the project repository for Group 57's
+Project for CPSC304.
 
-To see PDFs of previous milestones, look in the `/milestones` directory.
-
-All SQL scripts are in the `/sql` directory.# reddit_dbms
+Reddit_dbms is a database management system for a reddit-styled social media application. 
